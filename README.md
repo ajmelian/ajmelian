@@ -6,7 +6,7 @@
 
 ## Sobre mi
 
-- ⭐ PHP Developer Star ⭐ 
+- Top-tier PHP & Blockchain Heavyweight | Cybersecurity Savant | Data Privacy Advocate | Technology Innovator 
 - 📗 Autor del libro [Manual práctico de Seguridad en PHP 8.x: Protegiendo Aplicaciones Web Contra Amenazas](https://www.amazon.es/Manual-pr%C3%A1ctico-Seguridad-PHP-8-x-ebook/dp/B0D2C3CXM9/)
 <br>
 
