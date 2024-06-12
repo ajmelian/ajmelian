@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Aythami</h1>
 </div>
-<img src="https://i.imgur.com/R6MZ9oV.png">
+<img src="https://imgur.com/WoW8bfD">
 
 
 ## Sobre mi
