@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Aythami</h1>
 </div>
-<img src="https://imgur.com/WoW8bfD">
+<img src="https://ajmelian.info/wp4820357.jpg">
 
 
 ## Sobre mi
