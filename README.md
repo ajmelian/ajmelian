@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Aythami</h1>
+</div>
+<img src="https://i.imgur.com/R6MZ9oV.png">
 
-<!--
-**ajmelian/ajmelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐ PHP Developer Star ⭐ 
+- 📗 Autor del libro [Manual práctico de Seguridad en PHP 8.x: Protegiendo Aplicaciones Web Contra Amenazas](https://www.amazon.es/Manual-pr%C3%A1ctico-Seguridad-PHP-8-x-ebook/dp/B0D2C3CXM9/)
+<br>
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ajmelian">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajmelian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajmelian&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
