@@ -4,6 +4,7 @@
 📍 Remote from Gran Canaria, Spain  
 📧 ajmelian@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/aythami-melian/) · [GitHub](https://github.com/ajmelian)
+👉 [Download the full CV (PDF)](./CV_backendDeveloper.pdf)
 
 ---
 
