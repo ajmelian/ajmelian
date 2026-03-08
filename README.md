@@ -3,7 +3,7 @@
 ### Senior PHP Backend Developer · PHP Architect · Secure Software Engineer (SSDLC)
 
 📍 Remote from Gran Canaria, Spain  
-📧 ajmelian@gmail.com  
+📧 ajmelper@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/aythami-melian/) · [GitHub](https://github.com/ajmelian)
 
 ---
